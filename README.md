@@ -1,6 +1,6 @@
 > [!IMPORTANT]  
 > As of 06/02/24, Vendetta and related projects have been discontinued.
-
+Hold up aint
 # VendettaTweak
 
 A rootful/rootless tweak to inject Vendetta into Discord.
